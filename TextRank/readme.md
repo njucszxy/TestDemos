@@ -1,0 +1,2 @@
+读取test.txt中的字符，经过TextRank排序（使用hanlp）后输出重要性前十的词语至output.txt
+依赖见pom.xml
