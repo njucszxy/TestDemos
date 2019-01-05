@@ -1,0 +1,1 @@
+﻿+ 默认使用englishPCFG，将test.txt中的多条语句分析后生成的树写入testOutput.txt中
